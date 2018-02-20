@@ -2,9 +2,9 @@
 
 ### Repositiory Contents
 
--README.mp
--weeklyreportdata.csv
--Weekly Provider Report.py
+README.mp
+weeklyreportdata.csv
+Weekly Provider Report.py
 
 ### NOTES
 
