@@ -46,7 +46,7 @@ import xlsxwriter
 
 '''provider baselines-----------------------------------------------------------------'''
 
-# these baselines are can be updated when necessary
+# these baselines can be updated when necessary
 
 baselines = {'Provider1':12, 'Provider3':1, 'Provider4':10,
              'Provider5':12,'Provider6':10, 'Provider7':8,'Provider10':8,'Provider11':18,
