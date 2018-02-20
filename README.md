@@ -18,13 +18,21 @@ weeklyreportdata.csv
 
 Weekly Provider Report.py
 
+createtable.php
+
 
 ### NOTES
 ---
 
+#### Weekly Provider Report.py:
+
+Original program ran on the DLS server
+
+This file has been updated to read from the edited data set weeklyreportdata.csv
+
 #### weeklyreportdata.csv:
  
-Data was origninally pulled from html table produced by createtable.php on DLS server
+Origninal data pulled from html table produced by createtable.php on DLS server
 
 Read data from table and exported to csv to censor private data
   
@@ -33,6 +41,3 @@ Read data from table and exported to csv to censor private data
 Use to query needed data from DLS servers
 
 SQL queries data from [X2crm Database](https://github.com/X2Engine/X2CRM)
-
-#### Weekly Provider Report.py:
-
