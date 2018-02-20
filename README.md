@@ -1,6 +1,6 @@
 # DLS_Weekly_Report
 
-### Repositiory Contents______________________________
+### Repositiory Contents__________________________________________________________________
 
 README.mp
 
@@ -8,7 +8,7 @@ weeklyreportdata.csv
 
 Weekly Provider Report.py
 
-### NOTES______________________________________________
+### NOTES_________________________________________________________________________________
 
 #### weeklyreportdata.csv:
  
