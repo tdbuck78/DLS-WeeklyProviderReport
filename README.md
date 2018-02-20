@@ -3,7 +3,10 @@
 ###  Description
 ---
 
-
+Project created for Developmental Learning Solutions inc. 
+  
+The Weekly Provider Report program is a management tool to view provider/client activity over a 4 week period
+  
 
 
 ### Repository Contents
