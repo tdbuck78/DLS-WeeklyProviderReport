@@ -14,6 +14,7 @@ Weekly Provider Report.py
 
 #### weeklyreportdata.csv:
  
-Data was origninally pulled from html table produced by x.php on DLS server
-Read data from table and exported to csv to censor private data
+  Data was origninally pulled from html table produced by x.php on DLS server
+
+  Read data from table and exported to csv to censor private data
 
