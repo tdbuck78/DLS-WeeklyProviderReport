@@ -1,6 +1,6 @@
 # DLS_Weekly_Report
 
-### Repositiory Contents
+### Repository Contents
 ---
 
 README.mp
