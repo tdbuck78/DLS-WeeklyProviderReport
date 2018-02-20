@@ -21,7 +21,7 @@ Weekly Provider Report.py
 createtable.php
 
 
-### NOTES
+### Notes
 ---
 
 #### Weekly Provider Report.py:
