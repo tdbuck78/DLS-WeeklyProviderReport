@@ -23,5 +23,5 @@ Read data from table and exported to csv to censor private data
 
 Use to query needed data from DLS servers
 
-SQL queries data from [X2crm Database](https://github.com/X2Engine/X2CRM))
+SQL queries data from [X2crm Database](https://github.com/X2Engine/X2CRM)
 
