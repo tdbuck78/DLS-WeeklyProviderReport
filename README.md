@@ -25,3 +25,5 @@ Use to query needed data from DLS servers
 
 SQL queries data from [X2crm Database](https://github.com/X2Engine/X2CRM)
 
+#### Weekly Provider Report.py:
+
