@@ -30,6 +30,10 @@ Original program ran on the DLS server
 
 This file has been updated to read from the edited data set weeklyreportdata.csv
 
+#### example_output.xlsx:
+
+Example output of the Weekly Provider Report program
+
 #### weeklyreportdata.csv:
  
 Origninal data pulled from html table produced by createtable.php on DLS server
