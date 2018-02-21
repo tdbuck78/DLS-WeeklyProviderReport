@@ -119,8 +119,8 @@ for p in provArr:
 
 
 '''writing to excel---------------------------------------------------------'''
-t = 'Weekly Provider Report {}.xlsx'.format(str(date.today()))
-wb = xlsxwriter.Workbook(t)
+
+wb = xlsxwriter.Workbook('example_output.xlsx)
 
 
 
